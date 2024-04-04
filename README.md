@@ -1,4 +1,4 @@
-<h2 align="left">Hey there 👋</h2>
+<h2 align="left">hey there 👋</h2>
 
 ###
 
@@ -61,9 +61,5 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulvijay81.rahulvijay81&"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rahulvijay81/rahulvijay81/output/snake.svg" alt="Snake animation" />
 
 ###
