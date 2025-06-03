@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Front-End Developer | Specializing in React.js | Expertise in Next.js</h4>
+<h4 align="left">Full Stack Developer | Specializing in React.js | Expertise in Next.js</h4>
 
 ###
 
