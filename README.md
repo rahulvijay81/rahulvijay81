@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me :
 - 💡 Passionate about building **scalable frontend applications** with modern frameworks.  
-- ⚡ Experienced in **React.js, Next.js, Redux, Tailwind CSS, Firebase**, and more.  
+- ⚡ Experienced in **React.js, Next.js, Redux, Tailwind CSS**, and more.  
 - 🌱 Currently learning **Advanced Backend with Node.js & GraphQL** to strengthen full-stack expertise.  
 - 💼 Open to freelancing & collaboration on exciting **React/Next.js projects**.  
 - 📫 Reach me at: **rahulvijay8156@gmail.com**
