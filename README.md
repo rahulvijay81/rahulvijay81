@@ -5,10 +5,12 @@
 <h4 align="center">🚀 Full Stack Developer | React.js Specialist | Next.js Expert</h4>
 
 ### 👨‍💻 About Me :
-- 💡 Passionate about building **scalable frontend applications** with modern frameworks.  
-- ⚡ Experienced in **React.js, Next.js, Redux, Tailwind CSS**, and more.  
-- 🌱 Currently learning **Advanced Backend with Node.js & GraphQL** to strengthen full-stack expertise.  
-- 💼 Open to freelancing & collaboration on exciting **React/Next.js projects**.  
+- 💼 Full Stack Developer with 3+ years of experience building scalable web applications and business platforms. 
+- ⚡ Experienced in React.js, Next.js, TypeScript, Node.js, Express.js, REST APIs, MySQL, and PostgreSQL. 
+- 🏗️ Built enterprise applications including HRMS platforms, internal tools, reporting systems, and content management solutions. 
+- 🚀 Passionate about performance optimization, scalable architecture, and clean code.
+- 🌱 Continuously learning modern backend technologies and system design.
+- 🤝 Open to startup, product-based, freelance, and remote opportunities.
 - 📫 Reach me at: **rahulvijay8156@gmail.com**
 
 ### 🛠️ Tech Stack & Tools  
